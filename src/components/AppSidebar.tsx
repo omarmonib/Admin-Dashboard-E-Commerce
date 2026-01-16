@@ -39,7 +39,6 @@ import AddOrder from './AddOrder';
 import AddUser from './AddUser';
 import AddCategory from './AddCategory';
 import AddProduct from './AddProduct';
-import Logo from './ui/Logo';
 
 const items = [
   {
