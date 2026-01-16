@@ -20,7 +20,6 @@ import {
 } from '@/components/ui/table';
 import { DataTablePagination } from '@/components/TablePagination';
 import { useState } from 'react';
-import { object } from 'zod';
 import { Trash2 } from 'lucide-react';
 
 interface DataTableProps<TData, TValue> {
