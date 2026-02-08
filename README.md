@@ -1,8 +1,9 @@
 # E-Commerce Admin Dashboard
 
-A modern, responsive admin dashboard for managing e-commerce operations, built with Next.js 14 and the latest web technologies. This dashboard provides a comprehensive interface for managing products, orders, customers, and more.
+A production-ready e-commerce admin dashboard built with Next.js 14,
+focused on scalability, clean architecture, and modern UI/UX.
 
-![Dashboard Preview](public/dashboard-preview.png)
+
 
 ## ✨ Features
 
