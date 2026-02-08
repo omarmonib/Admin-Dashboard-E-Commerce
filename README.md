@@ -8,24 +8,35 @@ focused on scalability, clean architecture, and modern UI/UX.
 
 ### Dashboard Dark Mode
 ![Dashboard](public/dashboard-preview/1.png)
-![Dashboard](public/dashboard-preview/9.png)
 
 ### Dashboard Light Mode
 ![Dashboard](public/dashboard-preview/2.png)
 
 ### Products Management
 ![Products](public/dashboard-preview/3.png)
-![Products](public/dashboard-preview/4.png)
-![Products](public/dashboard-preview/5.png)
 
 ### Users Management
+![Users](public/dashboard-preview/6.png)
+
+### Orders
+![Orders](public/dashboard-preview/8.png)
+
+
+<details>
+<summary>📸 More Screenshots</summary>
+
+### Products
+![Products](public/dashboard-preview/3.png)
+![Products](public/dashboard-preview/4.png)
+
+### Users
 ![Users](public/dashboard-preview/6.png)
 ![Users](public/dashboard-preview/7.png)
 
 ### Orders
 ![Orders](public/dashboard-preview/8.png)
 
-
+</details>
 
 ## ✨ Features
 
