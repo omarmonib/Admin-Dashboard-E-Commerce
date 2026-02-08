@@ -15,12 +15,6 @@ focused on scalability, clean architecture, and modern UI/UX.
 ### Products Management
 ![Products](public/dashboard-preview/3.png)
 
-### Users Management
-![Users](public/dashboard-preview/6.png)
-
-### Orders
-![Orders](public/dashboard-preview/8.png)
-
 
 <details>
 <summary>📸 More Screenshots</summary>
