@@ -4,18 +4,43 @@ A production-ready e-commerce admin dashboard built with Next.js 14,
 focused on scalability, clean architecture, and modern UI/UX.
 
 
+## 📸 Screenshots
+
+### Dashboard Dark Mode
+![Dashboard](public/dashboard-preview/1.png)
+![Dashboard](public/dashboard-preview/9.png)
+
+### Dashboard Light Mode
+![Dashboard](public/dashboard-preview/2.png)
+
+### Products Management
+![Products](public/dashboard-preview/3.png)
+![Products](public/dashboard-preview/4.png)
+![Products](public/dashboard-preview/5.png)
+
+### Users Management
+![Users](public/dashboard-preview/6.png)
+![Users](public/dashboard-preview/7.png)
+
+### Orders
+![Orders](public/dashboard-preview/8.png)
+
+
 
 ## ✨ Features
 
-- **Modern UI/UX** with dark/light mode support
-- **Responsive Design** works on desktop and tablet
-- **Product Management** - Add, edit, and manage products
-- **Order Processing** - Track and manage customer orders
-- **User Management** - Admin and staff user roles
-- **Analytics Dashboard** - Sales and performance metrics
-- **Form Handling** - Robust form validation with React Hook Form and Zod
-- **Data Tables** - Interactive data tables with sorting and filtering
-- **Charts & Visualizations** - Built with Recharts
+- Manage products and inventory efficiently
+- Track and process customer orders
+- Control user roles and permissions
+- Monitor sales and performance analytics
+- Responsive admin interface for daily operations
+
+### Technical Highlights
+- Modern UI with dark/light mode
+- Form validation with React Hook Form and Zod
+- Advanced data tables with sorting and filtering
+- Charts and visualizations built with Recharts
+
 
 ## 🚀 Tech Stack
 
@@ -35,22 +60,21 @@ focused on scalability, clean architecture, and modern UI/UX.
 - npm, yarn, or pnpm
 - Git
 
+## 🔗 Live Demo
+👉 https://admin-e-commerce-seven.vercel.app/
+
 ## 🛠️ Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/e-commerce-admin-dashboard.git
-   cd e-commerce-admin-dashboard
+   git clone https://github.com/omarmonib/Admin-Dashboard-E-Commerce.git
+   cd Admin-Dashboard-E-Commerce
    ```
 
 2. Install dependencies:
 
    ```bash
-   npm install
-   # or
-   yarn
-   # or
    pnpm install
    ```
 
@@ -75,6 +99,7 @@ focused on scalability, clean architecture, and modern UI/UX.
 5. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
 ## 🏗️ Project Structure
+The project follows a scalable, feature-based structure:
 
 ```
 src/
@@ -91,16 +116,22 @@ src/
 ├── hooks/                # Custom React hooks
 └── styles/               # Global styles
 ```
+## 🎯 Why This Project?
+
+This project was built to demonstrate real-world admin dashboard patterns,
+including scalable architecture, reusable components, and data-heavy UI.
+
+## 🔮 Future Improvements
+- Authentication & authorization
+- Real backend integration
+- Automated testing
+
 
 ## 🧪 Testing
 
 To run tests:
 
 ```bash
-npm test
-# or
-yarn test
-# or
 pnpm test
 ```
 
@@ -137,4 +168,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Omar Monib]
+🔗 LinkedIn: https://www.linkedin.com/in/omar-monib/
